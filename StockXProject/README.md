@@ -1,5 +1,5 @@
 # Shoes
-To View the preview of our notebook, press Official.ipynb(https://github.com/joelrajuthomas/StockXAnalysis/blob/master/StockXProject/Official.ipynb)
+To View the preview of our notebook, press [Official.ipynb](https://github.com/joelrajuthomas/StockXAnalysis/blob/master/StockXProject/Official.ipynb)
 
 If you can't view the Jupyter Notebook through github preview, please download the folder and run notebook on its own. Thank you.
 
